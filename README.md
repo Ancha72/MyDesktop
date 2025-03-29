@@ -1,4 +1,4 @@
 # MyDesktop
 My Desktop customization
 
-import dash2panel setting
+- import dash2panel setting
